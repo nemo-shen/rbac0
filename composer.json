@@ -1,0 +1,7 @@
+{
+  "name" : "rbac",
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ]
+}
